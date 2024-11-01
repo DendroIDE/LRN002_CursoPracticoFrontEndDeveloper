@@ -46,7 +46,7 @@ Para visualizar el proyecto necesitas un navegador web y un editor de código. C
 
 2. Accede a la carpeta del proyecto:
    ```bash
-   cd nombre-del-repositorio
+   cd LRN002_CursoPracticoFrontEndDeveloper
    ```
 
 ## Uso
